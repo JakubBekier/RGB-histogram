@@ -17,6 +17,6 @@ Value of color describes intensity. <br>
 Program counts how many times every value has occured and displays results in a graph.
 
 Remember that EVERY pixel has all 3 values, so EVERY pixel has value of blue color even
-if image is full red. <br>
+if image is fully red. <br>
 Sometimes you can see a graph with the highest peak of color which is
 hard to notice, thats because every pixel <br> has low value of this color.
